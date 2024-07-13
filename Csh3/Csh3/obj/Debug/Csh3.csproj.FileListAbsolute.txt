@@ -1,0 +1,7 @@
+E:\projects\C#\Csh3\Csh3\obj\Debug\Csh3.csproj.CoreCompileInputs.cache
+E:\projects\C#\Csh3\Csh3\bin\Debug\Csh3.exe.config
+E:\projects\C#\Csh3\Csh3\bin\Debug\Csh3.exe
+E:\projects\C#\Csh3\Csh3\bin\Debug\Csh3.pdb
+E:\projects\C#\Csh3\Csh3\obj\Debug\Csh3.exe
+E:\projects\C#\Csh3\Csh3\obj\Debug\Csh3.pdb
+E:\projects\C#\Csh3\Csh3\obj\Debug\Csh3.csproj.AssemblyReference.cache

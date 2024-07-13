@@ -1,0 +1,2 @@
+E:\projects\C#\day3Csh\day3Csh\obj\Debug\day3Csh.csproj.AssemblyReference.cache
+E:\projects\C#\day3Csh\day3Csh\obj\Debug\day3Csh.csproj.CoreCompileInputs.cache
